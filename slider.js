@@ -2,12 +2,12 @@ let movies = [
   {
     name: "The Vaccine War ",
     des: "As the COVID-19 pandemic looms over India, the medical community races to find a cure and control rumours which get more contagious than the virus.",
-    image: "images/slider 12.JPEG",
+    image: "images/slider 10.JPEG",
   },
   {
     name: "Avengers : Endgame ",
     des: "Surviving heroes unite to reverse Thanos' snap in an epic Marvel film. Time travel, sacrifice, and an ultimate battle shape the thrilling conclusion to this expansive cinematic saga.",
-    image: "images/slider 10.JPG",
+    image: "images/slider 12.JPG",
   },
   {
     name: "Koffee With Karan",
